@@ -1,0 +1,5 @@
+outro teste 
+----------------
+teste de commit com
+arquivo de texto e
+varias linhas
